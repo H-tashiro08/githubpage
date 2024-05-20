@@ -1,3 +1,5 @@
+index.md へ[飛ぶ](https://github.com/H-tashiro08/githubpage/blob/main/index.md)
+
 # 文字色
 
 カラーコードを指定することで文字色を変更できます。
@@ -32,5 +34,3 @@
 _テスト_  
 **テスト 2**  
 **_テスト 3_**
-
-index.md へ[飛ぶ](https://github.com/H-tashiro08/githubpage/blob/main/index.md)

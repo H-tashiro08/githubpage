@@ -1,3 +1,5 @@
+second.md へ[飛ぶ](./second.md)
+
 # 改行されない場合の例
 
 こんにちは
@@ -61,5 +63,3 @@
 # 画像
 
 ![ほげ](./hoge.png)
-
-second.md へ[飛ぶ](./second.md)

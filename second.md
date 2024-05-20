@@ -1,4 +1,4 @@
-index.md へ[飛ぶ](https://github.com/H-tashiro08/githubpage/blob/main/index.md)
+index.md へ[飛ぶ](./index.md)
 
 # 文字色
 
